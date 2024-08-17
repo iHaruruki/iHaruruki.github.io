@@ -2,7 +2,7 @@
     width: 100px;
     height: 100px;
     border-radius: 50%; /* 円形にする */
-    background: url(picture/owl.jpg);
+    background: url(../images/owl.jpg);
     background-size: auto 130px;    /* 画像の大きさを指定 */
     background-position: center center;   /* 画像の位置を指定 */
 }
